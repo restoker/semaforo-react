@@ -6,5 +6,5 @@ descarga el proyecto luego intalalo con el comando
 
 finalmente usa el comando para correr el poyecto
 
-#npm run dev
+npm run dev
 
